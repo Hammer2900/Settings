@@ -1,0 +1,14 @@
+<templateSet group="Python">
+  <template name="pp" value="print 'debug: {}'.format($VAL_EXPR$)" description="easy print" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="head" value="#========================= $VAL_EXPR$ =========================" description="head description" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
