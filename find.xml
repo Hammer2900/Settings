@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ShopestAdmin'" />
-    <option name="defaultScopeName" value="Project 'ShopestAdmin'" />
-    <option name="SEARCH_SCOPE" value="Project 'ShopestAdmin'" />
+    <option name="customScope" value="File '[ShopestAdmin] - .../tests/test_core_view.py'" />
+    <option name="defaultScopeName" value="File '[ShopestAdmin] - .../tests/test_core_view.py'" />
+    <option name="SEARCH_SCOPE" value="File '[ShopestAdmin] - .../tests/test_core_view.py'" />
   </component>
 </application>
