@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/_ENV/ShopestAdminNew/bin" />
     </exec>
   </tool>
-  <tool name="shopest_ssh" description="open server" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Manoj Singh Bora server aws" description="open server" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="sakura" />
       <option name="PARAMETERS" value="-e ssh -i /home/izot/_ENV/key/Shopest_Aws_Dev.pem ubuntu@52.207.243.9 -L 3306:localhost:3306" />
