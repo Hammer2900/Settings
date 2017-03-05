@@ -11,4 +11,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="pj" value="print(json.dumps($VAL_EXPR$, indent=4))" description="prety json" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
