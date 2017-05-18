@@ -54,6 +54,7 @@
         <option value="object.get_queryset" />
         <option value="rbflote.todo.views.TodoPdfExportoMixin.request" />
         <option value="object.get" />
+        <option value="wrap_folder.fman" />
       </list>
     </option>
   </inspection_tool>
