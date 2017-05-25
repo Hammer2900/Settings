@@ -1,8 +1,0 @@
-<templateSet group="JavaScript">
-  <template name="cc" value="console.log('Debug --&gt;', $VAL_EXPR$);" description="console.log" toReformat="false" toShortenFQNames="true">
-    <variable name="VAL_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>

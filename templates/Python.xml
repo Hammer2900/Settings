@@ -1,0 +1,8 @@
+<templateSet group="Python">
+  <template name="pp" value="print('Debug --&gt;', $VAL_EXPR$)" description="Fast print" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
