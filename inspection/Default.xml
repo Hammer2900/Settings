@@ -56,6 +56,8 @@
         <option value="rbflote.todo.views.TodoPdfExportoMixin.request" />
         <option value="object.get" />
         <option value="wrap_folder.fman" />
+        <option value="rbflote.recordkeeping.views.contracts.DocumentTypeFilter.request" />
+        <option value="rbflote.recordkeeping.views.contracts.DocumentTypeFilter.model" />
       </list>
     </option>
   </inspection_tool>
