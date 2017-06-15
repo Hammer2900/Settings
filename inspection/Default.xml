@@ -21,7 +21,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="13">
+        <list size="16">
           <item index="0" class="java.lang.String" itemvalue="django-paging" />
           <item index="1" class="java.lang.String" itemvalue="django-indexer" />
           <item index="2" class="java.lang.String" itemvalue="django-templatetag-sugar" />
@@ -35,6 +35,9 @@
           <item index="10" class="java.lang.String" itemvalue="pytest-isort" />
           <item index="11" class="java.lang.String" itemvalue="configparser" />
           <item index="12" class="java.lang.String" itemvalue="cffi" />
+          <item index="13" class="java.lang.String" itemvalue="cairocffi" />
+          <item index="14" class="java.lang.String" itemvalue="pycparser" />
+          <item index="15" class="java.lang.String" itemvalue="xcffib" />
         </list>
       </value>
     </option>
