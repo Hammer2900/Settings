@@ -5,4 +5,10 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="ppp" value="print('Debug ---&gt;', f'{$VAL_EXPR$}')" description="Fast print" toReformat="false" toShortenFQNames="true">
+    <variable name="VAL_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
