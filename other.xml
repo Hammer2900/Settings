@@ -1,0 +1,37 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/_ENV/HW/bin/python" value="true" />
+        <entry key="$USER_HOME$/_ENV/SSH/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/bin/python" value="false" />
+        <entry key="ssh://diceus@146.20.110.194:22/home/diceus/.virtualenvs/healthywage_django/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/_ENV/HW/bin/python" value="false" />
+        <entry key="$USER_HOME$/_ENV/SSH/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/bin/python" value="false" />
+        <entry key="ssh://diceus@146.20.110.194:22/home/diceus/.virtualenvs/healthywage_django/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://healthywage.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc8dfc6dfcbdfc4dfcddfc5df98df93df9adf9a</password>
+      <option name="inCloud" value="true" />
+      <option name="jiraVersion" value="1001.0.0-SNAPSHOT" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>etsy@diceus.com</username>
+    </JIRA>
+  </component>
+</application>

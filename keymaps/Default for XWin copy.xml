@@ -1,0 +1,11 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="DisableInspection">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+</keymap>
