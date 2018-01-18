@@ -27,7 +27,6 @@
       <mask>urls.py</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*h</mask>
       <mask>*ht</mask>
       <mask>*htm</mask>
@@ -38,6 +37,7 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.htm</mask>
     </recentFileMasks>
   </component>
 </application>
