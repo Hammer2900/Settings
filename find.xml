@@ -5,10 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -37,9 +40,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>*.htm</mask>
       <mask>.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
