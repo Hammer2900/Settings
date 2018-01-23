@@ -36,12 +36,12 @@
       <mask>*ht</mask>
       <mask>*htm</mask>
       <mask>*html</mask>
-      <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.htm</mask>
       <mask>.py</mask>
+      <mask>*.html</mask>
       <mask>*.py</mask>
     </recentFileMasks>
   </component>
