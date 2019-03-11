@@ -1,0 +1,23 @@
+<code_scheme name="Default" version="173">
+  <option name="SOFT_MARGINS" value="80" />
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="2" />
+  </JSON>
+  <Python>
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
+  </Python>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>

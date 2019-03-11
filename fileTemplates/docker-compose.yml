@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  sandboxmongo:
+    command: mongod --setParameter failIndexKeyTooLong=false
+    container_name: sandbox_mongo
+    image: mongo:4.0
+    ports:
+      - "27101:27017" # map port to none standard port, to avoid conflicts with locally installed mongodb. 
+    volumes:
+      - ./data/mongo/db:/data/db

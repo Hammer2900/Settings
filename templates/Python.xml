@@ -1,0 +1,13 @@
+<templateSet group="Python">
+  <template name="pp" value="print('[√]: ', $VAR$)" description="print" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="dd" value="item = {'': '', }" description="paste python dict" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

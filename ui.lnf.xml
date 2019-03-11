@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>
