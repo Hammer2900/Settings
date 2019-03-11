@@ -1,8 +1,0 @@
-<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="Git.Branches">
-    <keyboard-shortcut first-keystroke="ctrl numpad0" />
-  </action>
-  <action id="QuickList.izot">
-    <keyboard-shortcut first-keystroke="ctrl alt q" />
-  </action>
-</keymap>
