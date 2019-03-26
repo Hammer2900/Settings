@@ -10,10 +10,11 @@
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="stab" type="PLAIN_TEXT" />
       <mapping ext="nim" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
