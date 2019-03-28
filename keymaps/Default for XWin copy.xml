@@ -2,4 +2,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
+  <action id="TogglePowerSave">
+    <keyboard-shortcut first-keystroke="ctrl escape" />
+  </action>
 </keymap>
