@@ -16,6 +16,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="seg" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="proxy" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
