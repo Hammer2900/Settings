@@ -4,13 +4,15 @@
     <property name="created">2018-10-19T15:16:58</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-23T16:30:32</property>
+    <property name="modified">2019-09-26T12:24:31</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="InputMono" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e6e6ed" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8ff" />
