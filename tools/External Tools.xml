@@ -9,7 +9,7 @@
   <tool name="ranger to folder" description="run ranger fm on folder path" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="sakura" />
-      <option name="PARAMETERS" value="-x /usr/bin/ranger" />
+      <option name="PARAMETERS" value="-x lf" />
       <option name="WORKING_DIRECTORY" value="$FileDir$" />
     </exec>
   </tool>
