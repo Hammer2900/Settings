@@ -4,7 +4,7 @@
       <map>
         <entry key="collapsatorBackgroundColor@" value="-1" />
         <entry key="collapsatorBorderColor@" value="-12566464" />
-        <entry key="collapsatorBorderWidth" value="1065353216" />
+        <entry key="collapsatorBorderWidth" value="1066192077" />
         <entry key="collapsatorSize" value="16" />
         <entry key="connectorColor@" value="-1" />
         <entry key="connectorWidth" value="1069547520" />
@@ -16,7 +16,7 @@
         <entry key="firstLevelHorizontalInset" value="48" />
         <entry key="firstLevelTextColor@" value="-16777216" />
         <entry key="firstLevelVerticalInset" value="32" />
-        <entry key="font@" value="Serif:1:18" />
+        <entry key="font@" value="InputMono:0:16" />
         <entry key="gridColor@" value="-12364185" />
         <entry key="gridStep" value="32" />
         <entry key="horizontalBlockGap" value="5" />
@@ -28,7 +28,7 @@
         <entry key="otherLevelVerticalInset" value="16" />
         <entry key="paperColor@" value="-10388588" />
         <entry key="paperMargins" value="20" />
-        <entry key="renderQuality@" value="DEFAULT" />
+        <entry key="renderQuality@" value="QUALITY" />
         <entry key="rootBackgroundColor@" value="-16573903" />
         <entry key="rootTextColor@" value="-1" />
         <entry key="scale" value="4607182418800017408" />
