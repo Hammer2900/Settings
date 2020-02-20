@@ -17,6 +17,7 @@
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="stab" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="nim" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
