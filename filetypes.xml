@@ -6,12 +6,12 @@
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="cer_auth" type="PLAIN_TEXT" />
       <mapping pattern="Fp_SMcTozaTsK4u-tUdpERVBtPO2QasjvX3EYhbpmVE" type="PLAIN_TEXT" />
-      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping pattern="stab" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
+      <mapping pattern="stab" type="PLAIN_TEXT" />
       <mapping pattern="wer" type="PLAIN_TEXT" />
       <mapping pattern="settings1" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="dep" type="PLAIN_TEXT" />
