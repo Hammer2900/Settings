@@ -5,4 +5,8 @@
   <action id="TogglePowerSave">
     <keyboard-shortcut first-keystroke="ctrl escape" />
   </action>
+  <action id="randomness.ShowGroup">
+    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>

@@ -1,0 +1,11 @@
+<application>
+  <component name="WordSettings">
+    <option name="schemes">
+      <list>
+        <WordScheme>
+          <option name="capitalization" value="random" />
+        </WordScheme>
+      </list>
+    </option>
+  </component>
+</application>
