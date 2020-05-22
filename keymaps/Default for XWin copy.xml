@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="caps_lock" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
