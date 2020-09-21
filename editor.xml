@@ -39,4 +39,7 @@
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
