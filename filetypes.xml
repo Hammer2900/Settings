@@ -7,30 +7,30 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="cer_auth" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern="dep" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
-      <mapping pattern="Fp_SMcTozaTsK4u-tUdpERVBtPO2QasjvX3EYhbpmVE" type="PLAIN_TEXT" />
       <mapping pattern="bash_env" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="Fp_SMcTozaTsK4u-tUdpERVBtPO2QasjvX3EYhbpmVE" type="PLAIN_TEXT" />
       <mapping pattern="help" type="PLAIN_TEXT" />
       <mapping pattern="settings1" type="PLAIN_TEXT" />
       <mapping pattern="stub" type="PLAIN_TEXT" />
       <mapping pattern="env-test" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="stab" type="PLAIN_TEXT" />
-      <mapping pattern="dep" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
-      <mapping ext="proxy" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="nim" type="PLAIN_TEXT" />
-      <mapping ext="d" type="PLAIN_TEXT" />
-      <mapping ext="seg" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pug" type="PLAIN_TEXT" />
+      <mapping ext="seg" type="PLAIN_TEXT" />
+      <mapping ext="proxy" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
