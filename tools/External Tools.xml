@@ -50,7 +50,7 @@
   </tool>
   <tool name="ablack" description="format code" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/socmonitor_pg-koGx56X1/bin/black" />
+      <option name="COMMAND" value="$USER_HOME$/.local/bin/black" />
       <option name="PARAMETERS" value="$FilePath$ --skip-string-normalization -l 79" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
@@ -64,7 +64,7 @@
   </tool>
   <tool name="unify" description="format quotes" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/mnt/w1/jek/Documents/_VENV/_OLD/socmonitor_pg-koGx56X1/bin/unify" />
+      <option name="COMMAND" value="$USER_HOME$/.local/bin/unify" />
       <option name="PARAMETERS" value="--in-place $FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
