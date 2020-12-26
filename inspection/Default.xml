@@ -16,6 +16,9 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="nameko.rpc.RpcProxy.*" />
+        <option value="nameko_core.src.db_index.IndexProvider.*" />
+        <option value="nameko_core.src.elastic.ElasticProvider.*" />
+        <option value="nameko_redis.client_providers.Redis.*" />
       </list>
     </option>
   </inspection_tool>
