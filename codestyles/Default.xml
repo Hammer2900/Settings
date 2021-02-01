@@ -137,6 +137,7 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </HSQLCodeStyleSettings>
   <JSON>
+    <option name="KEEP_TRAILING_COMMA" value="true" />
     <option name="PROPERTY_ALIGNMENT" value="1" />
     <option name="OBJECT_WRAPPING" value="0" />
     <option name="ARRAY_WRAPPING" value="5" />
@@ -413,6 +414,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
