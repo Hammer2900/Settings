@@ -1,6 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="RecentFiles">
+        <abbreviation name="FAST FILES" />
+      </action>
       <action id="$Copy" />
     </abbreviations>
   </component>
